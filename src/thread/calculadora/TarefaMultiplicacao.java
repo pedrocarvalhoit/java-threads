@@ -1,4 +1,4 @@
-package threadCalculadora;
+package thread.calculadora;
 
 import java.math.BigInteger;
 

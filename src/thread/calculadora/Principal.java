@@ -1,4 +1,4 @@
-package threadCalculadora;
+package thread.calculadora;
 
 public class Principal {
 

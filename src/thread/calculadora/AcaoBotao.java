@@ -1,5 +1,5 @@
 
-package threadCalculadora;
+package thread.calculadora;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

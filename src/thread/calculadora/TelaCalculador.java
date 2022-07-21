@@ -1,4 +1,4 @@
-package threadCalculadora;
+package thread.calculadora;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
