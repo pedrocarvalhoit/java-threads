@@ -1,4 +1,4 @@
-package thread.loiane.terceiraParte;
+package thread.loianeTerceiraParte;
 
 public class MinhaThread implements Runnable{
 
