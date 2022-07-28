@@ -1,4 +1,4 @@
-package threads.loiane.continuacao;
+package threads.loiane.segundaParte;
 
 public class ThreadTicTac implements Runnable{
 	
